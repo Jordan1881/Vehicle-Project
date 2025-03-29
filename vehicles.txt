@@ -1,0 +1,1 @@
+Car{doors=4, convertible=false, wheels=4.0, manufacturer='kia', fuelType=PETROL, year=2011-12-31T22:00:00Z}
